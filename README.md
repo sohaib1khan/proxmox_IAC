@@ -17,13 +17,11 @@ cd proxmox_IAC
 
 Update the following variables in each script (`delete_vm.py`, `list_nodes.py`, `create.py`) to match your Proxmox environment:
 
-```
 PROXMOX_URL = "YOUR_PROXMOX_URL"
 NODE = "YOUR_NODE_NAME"
 TOKEN_ID = "YOUR_TOKEN_ID"
-TOKEN_SECRET = "YOUR_TOKEN_SECRET"
+TOKEN_SECRET = "YOUR_TOKEN_SECRET" 
 ```
-
 ## Scripts
 
 ### 1. `delete_vm.py`
