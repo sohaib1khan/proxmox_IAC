@@ -16,7 +16,7 @@ This repository contains Python scripts to interact with the Proxmox API, allowi
 
 ```bash
 
-git clone [YOUR_REPOSITORY_URL]
+git clone https://github.com/sohaib1khan/proxmox_IAC.git
 
 cd proxmox_iac
 
@@ -59,4 +59,5 @@ Usage:
 
 ```
 python3 create.py
+
 ```
