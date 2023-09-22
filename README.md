@@ -1,8 +1,3 @@
-```
-python3 delete_vm.py
-```
-
-```
 # Proxmox Virtual Environment Automation
 
 This repository contains Python scripts to interact with the Proxmox API, allowing users to manage and automate VM lifecycle tasks within a Proxmox environment. With these scripts, you can create, start, stop, delete, and list VMs, nodes, and storage details.
@@ -19,7 +14,6 @@ This repository contains Python scripts to interact with the Proxmox API, allowi
 ```bash
 git clone https://github.com/sohaib1khan/proxmox_IAC.git
 cd proxmox_IAC
-```
 
 Update the following variables in each script (`delete_vm.py`, `list_nodes.py`, `create.py`) to match your Proxmox environment:
 
